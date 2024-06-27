@@ -8,6 +8,7 @@ Que 1. How do I interpret user needs and implement them into a program? How does
 Ans-> I interpret user needs by asking key questions that will provide me the specific answers I need to understand their aspirations for their program. Furthermore, by clearly understanding and organizing the user's needs I can efficiently implement them into a program. User stories helps with understanding and implementing user needs by providing a clear layout to ask for and organize vital information that help understand and implement user needs into a program.
 
 Que 2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
 Ans-> I approach developing programs in the following order:
         i. Understand the requirements (like, expected outputs) of the program.
         ii. Create pseudocode representing the program.
