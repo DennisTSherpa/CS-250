@@ -21,6 +21,7 @@ Ans-> I approach developing programs in the following order:
 Que 3} What does it mean to be a good team member in software development?
 
 Ans-> It means:
+
         1. To attend team gatherings and meetings on time.
         2. To be considerate of team members' values and feelings.
         3. To be attentive when team members are explaining their perspectives.
