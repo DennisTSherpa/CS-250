@@ -1,4 +1,5 @@
 # cs-250
+An SNHU course towards obtaining an Associate Degree in Computer Science.
 
 This repository is a summary of all the assignments I completed throughout the CS-250 course provided by SNHU.
 
