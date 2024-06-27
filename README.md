@@ -12,10 +12,12 @@ Ans-> I interpret user needs by asking key questions that will provide me the sp
 Que 2} How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
 Ans-> I approach developing programs in the following order:
+
         i. Understand the requirements (like, expected outputs) of the program.
         ii. Create pseudocode representing the program.
         iii. Convert pseudocode to the specific programming langage.
         iv. Test and refine.
+        
       Regarding my future development work, I hope to incorporate Scrum to deliver functional programs that meet users' expectations in a timely manner. 
       
 Que 3} What does it mean to be a good team member in software development?
